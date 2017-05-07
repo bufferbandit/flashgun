@@ -91,7 +91,7 @@ def find_flare():
             flare_executable = "./" + x
 
 def create_dicts():
-    for directory in ["log","buletin"]:
+    for directory in ["buletin"]:
         if not os.path.exists(directory):
             os.makedirs(directory)
 
