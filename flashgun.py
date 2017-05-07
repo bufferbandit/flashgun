@@ -75,7 +75,7 @@ def banner(off_on):
         print("       / __/ / / /_/ (__  ) / / / /_/ / /_/ / / / /  ")
         print("      /_/   /_/\____/____/_/ /_/\__, /\____/_/ /_/   ")
         print("                                /___/                ")
-        print("        SWF \n\n")
+        print("        SWF security scanner by bufferbandit")
         print("        [Beta]")
     else:
         err("\t\t+-- Flashgun (+--+--+) SWF scanner --+")
