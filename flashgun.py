@@ -295,7 +295,7 @@ def __main__():
                   +"(e.g target1 OR site:target2)           \n"
                   +"[i] Or separate them by a comma         \n"
                   +"[+] Have fun :)                         \n"
-                  +"[?] Website:                              
+                  +"[?] Website:                              "
                   )
         page  = google_search(input_url)
         swf_urls = google_get_urls(page)
